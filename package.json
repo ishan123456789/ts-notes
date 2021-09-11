@@ -1,0 +1,25 @@
+{
+  "name": "ts-notes",
+  "version": "1.0.0",
+  "description": "Notes regarding typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishan123456789/ts-notes.git"
+  },
+  "author": "Ishan Mahajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishan123456789/ts-notes/issues"
+  },
+  "homepage": "https://github.com/ishan123456789/ts-notes#readme",
+  "devDependencies": {
+    "tsc": "^2.0.3"
+  },
+  "dependencies": {
+    "typescript": "^4.4.2"
+  }
+}
